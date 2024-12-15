@@ -2,7 +2,7 @@
 
 A module is a package of reusable functionalities. It can be integrated into your Medusa application without affecting the overall system.
 
-To create a module!!:
+To create a module!!!!:
 
 ## 1. Create a Service
 
